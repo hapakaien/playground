@@ -1,3 +1,3 @@
 # templates
 
-- JWT authentification (with refresh token)
+- JWT authentification (with refresh token).
